@@ -15,7 +15,7 @@ server.route({
     method: 'GET',
     path: '/hello',
     handler: (request, reply) => {
-        return reply('hello world');
+        return reply('Hello, Azure.');
     }
 });
 
