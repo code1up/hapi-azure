@@ -1,0 +1,22 @@
+{
+  "name": "hapi-azure",
+  "version": "1.0.0",
+  "description": "Quick hapi.js / Azure experiment.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code1up/hapi-azure.git"
+  },
+  "author": "Alan Gorton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code1up/hapi-azure/issues"
+  },
+  "homepage": "https://github.com/code1up/hapi-azure#readme",
+  "dependencies": {
+    "hapi": "^14.2.0"
+  }
+}
